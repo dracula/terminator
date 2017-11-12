@@ -1,4 +1,3 @@
-# terminator-dracula
 Dracula colorscheme for Terminator
 ===================================
 
@@ -6,12 +5,13 @@ Dracula colorscheme for Terminator
 
 This colorscheme is based on the well-known __Solarized Dark__ colorscheme for the Terminator Terminal, it was created using "[Dracula palette](https://github.com/zenorocha/dracula-theme#color-palette)".
 
-Screeshot
-___________
+### Screeshot
+_______________
+
 
 ![Screenshot](screenshot.png)
 
-Installation
+### Installation
 _________________
 
 This theme is for Terminator Terminal.
