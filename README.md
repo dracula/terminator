@@ -20,7 +20,9 @@ The installation replaces the original terminator config file.
 
 Clone the repository to your machine.
 
-    $ git clone https://github.com/OmarElebiary/terminator-dracula.git && cd $_
+    $ git clone https://github.com/OmarElebiary/terminator-dracula.git
+    
+    $ cd terminator-dracula
 
 Then run the installation script:
 
