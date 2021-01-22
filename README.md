@@ -1,30 +1,21 @@
-Dracula colorscheme for Terminator
-===================================
+# Dracula for [Terminator](https://terminator-gtk3.readthedocs.io/en/latest/)
 
-> A dark colorscheme for [Terminator](http://www.tenshu.net/terminator/)
+> A dark theme for [Terminator](https://terminator-gtk3.readthedocs.io/en/latest/).
 
-This colorscheme is based on the well-known __Solarized Dark__ colorscheme for the Terminator Terminal, it was created using "[Dracula palette](https://github.com/zenorocha/dracula-theme#color-palette)".
+![Screenshot](./screenshot.png)
 
-### Screeshot
-_______________
+## Install
 
+All instructions can be found at [draculatheme.com/terminator](https://draculatheme.com/terminator).
 
-![Screenshot](screenshot.png)
+## Team
 
-### Installation
-_________________
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/terminator/graphs/contributors).
 
-This theme is for Terminator Terminal.
+[![Omar E](https://github.com/OmarElebiary.png?size=100)](https://github.com/OmarElebiary) |
+--- |
+[Omar E](https://github.com/OmarElebiary) |
 
-The installation replaces the original terminator config file.
+## License
 
-Clone the repository to your machine.
-
-    $ git clone https://github.com/OmarElebiary/terminator-dracula.git
-    
-    $ cd terminator-dracula
-
-Then run the installation script:
-
-    $ ./install.sh
-
+[MIT License](./LICENSE)
