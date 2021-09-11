@@ -4,7 +4,7 @@
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    $ git clone https://github.com/dracula/terminator.git
+    git clone https://github.com/dracula/terminator.git
 
 #### Install manually
 
@@ -16,4 +16,4 @@ The installation replaces the original terminator config file.
 
 To activate, you can run the installation script:
 
-    $ ./install.sh
+    ./install.sh
